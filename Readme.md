@@ -19,6 +19,18 @@ Quantum Chemistry: CHEM 210 A
     ```shell
         $ conda deactivate
     ```
+* If you use an IDE like Spyder, then you need to install Spyder within your virtual environment.
+  * So activate your environment like above and then install Spyder
+
+    ```shell
+        $ conda install spyder
+    ```
+  * Now still *within* your virtual environment invoke spyder.
+
+    ```shell
+        $ spyder
+    ```
+    Now you will be working inside of the Spyder IDE and have everything that's in the Psi4 environment!
 
 # Unix Setup
 * Package managers are extremely helpful and there are two for Mac OS, MacPorts
