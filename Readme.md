@@ -3,7 +3,7 @@ Quantum Chemistry: CHEM 210 A
 
 # Python Setup
 * download Anaconda if you haven't already https://www.anaconda.com/distribution/
-* Checkout this site for installing Psi4 with Anaconda http://www.psicode.org/psi4manual/master/tutorial.html
+* Checkout this site for installing Psi4 with Anaconda http://www.psicode.org/psi4manual/1.1/conda.html
   * Though, we just need to create virtual environment for Psi4
 
     ```shell
@@ -64,11 +64,13 @@ Quantum Chemistry: CHEM 210 A
 
 #### Computer language, intro to architecture
 * example `n**2` (1) Python
+
 ```python
 n = 5
 n ** 2
 ```
 (2) Assembly
+
 ```assembly
 push rbp
 mov rbp, rsp
@@ -79,6 +81,7 @@ pop rbp
 ret
 ```
 * registers and aritmetic units, (3) Binary
+
 ```binary
 011100000111010101110011011010000010000001110010011000100
 1110000000010100110110101101111011101100010000001110010011
