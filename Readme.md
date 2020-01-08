@@ -44,7 +44,7 @@ Quantum Chemistry: CHEM 210 A
 * Installing Molden for MacPorts
 
     ``````shell
-      sudo port install molden
+      $ sudo port install molden
     ``````
 
   The installation using Homebrew is probably similar
