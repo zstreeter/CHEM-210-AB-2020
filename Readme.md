@@ -41,7 +41,6 @@ Quantum Chemistry: CHEM 210 A
   
 # Psi4 
 * http://www.psicode.org/psi4manual/1.2/index.html
-* Installing with Anaconda http://www.psicode.org/psi4manual/master/conda.html
 
 # Slack 
 * set up Slack channel https://join.slack.com/t/chem210a/shared_invite/enQtODk2NTkwNjc5MDI4LWZkMDc4ZTQ5YzcxZTY3NmZkN2JmZTBhYmQ4YzU0NGE1YzdiMzE5YTRlM2I2NTVlMWZkZThlMDgwYTBiMTIzNzA
