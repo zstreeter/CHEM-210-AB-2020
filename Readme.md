@@ -3,10 +3,16 @@ Quantum Chemistry: CHEM 210 A
 
 # Python Setup
 * download Anaconda if you haven't already https://www.anaconda.com/distribution/
-  * Make sure conda is installed and in your \$PATH variable by looking at this command's output.
+  * Make sure conda is installed and in your \$PATH by looking at this command's output.
 
     ```shell
 	$ conda --version 
+    ```
+
+    Can check if \$PATH environment variable is pointing to the spot you installed Anaconda via this command:
+
+    ```shell
+	$ echo $PATH
     ```
 
 * Checkout this site for installing Psi4 with Anaconda http://www.psicode.org/psi4manual/1.1/conda.html
