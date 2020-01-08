@@ -4,17 +4,20 @@ Quantum Chemistry: CHEM 210 A
 # Python Setup
 * download Anaconda if you haven't already https://www.anaconda.com/distribution/
 * Checkout this site for installing Psi4 with Anaconda http://www.psicode.org/psi4manual/master/tutorial.html
-  * Though, we just need to create virtual environment for Psi4 "$ 
+  * Though, we just need to create virtual environment for Psi4
+
     ```shell
-	conda create -n Psi4env python=3.7 psi4 psi4-rt -c psi4"
+	$ conda create -n Psi4env python=3.7 psi4 psi4-rt -c psi4
     ```
   - Now can use this environment with the command 
+
     ```shell
-        conda activate Psi4env
+        $ conda activate Psi4env
     ``` 
     and deactivate it with 
+
     ```shell
-        conda deactivate"
+        $ conda deactivate
     ```
 
 # Unix Setup
@@ -22,11 +25,16 @@ Quantum Chemistry: CHEM 210 A
   I use MacPorts and you can install it from here https://www.macports.org/install.php.
   Homebrew is very popular and is easy to use with similar commands to MacPorts.
 * Installing Molden for MacPorts 
-  ``````shell
-     sudo port install molden
-  ``
-	The installation using Homebrew
-  is probably similar but I haven't done that (like "$ brew install molden"). 
+
+    ``````shell
+      sudo port install molden
+    ``````
+
+  The installation using Homebrew is probably similar 
+
+    ``````shell
+      $ brew install molden
+    ``````
 
 # Windows Setup
 * Just need to get Molden differently (I believe) http://cheminf.cmbi.ru.nl/molden/howtoget.html
