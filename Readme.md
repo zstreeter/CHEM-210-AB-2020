@@ -9,28 +9,30 @@ Quantum Chemistry: CHEM 210 A
     ```shell
 	$ conda create -n Psi4env python=3.7 psi4 psi4-rt -c psi4
     ```
-  - Now can use this environment with the command 
+  - Now can use this environment with the command
 
     ```shell
         $ conda activate Psi4env
-    ``` 
-    and deactivate it with 
+    ```
+    and deactivate it with
 
     ```shell
         $ conda deactivate
     ```
 
 # Unix Setup
-* Package managers are extremely helpful and there are two for Mac OS; MacPorts and Homebrew
+* Package managers are extremely helpful and there are two for Mac OS, MacPorts
+  and Homebrew.
   I use MacPorts and you can install it from here https://www.macports.org/install.php.
-  Homebrew is very popular and is easy to use with similar commands to MacPorts.
-* Installing Molden for MacPorts 
+  Homebrew is very popular and is easy to use with similar commands to MacPorts,
+  http://osxdaily.com/2018/03/07/how-install-homebrew-mac-os/.
+* Installing Molden for MacPorts
 
     ``````shell
       sudo port install molden
     ``````
 
-  The installation using Homebrew is probably similar 
+  The installation using Homebrew is probably similar
 
     ``````shell
       $ brew install molden
@@ -38,11 +40,11 @@ Quantum Chemistry: CHEM 210 A
 
 # Windows Setup
 * Just need to get Molden differently (I believe) http://cheminf.cmbi.ru.nl/molden/howtoget.html
-  
-# Psi4 
+
+# Psi4
 * http://www.psicode.org/psi4manual/1.2/index.html
 
-# Slack 
+# Slack
 * Say what's up! https://join.slack.com/t/chem210a/shared_invite/enQtODk2NTkwNjc5MDI4LWZkMDc4ZTQ5YzcxZTY3NmZkN2JmZTBhYmQ4YzU0NGE1YzdiMzE5YTRlM2I2NTVlMWZkZThlMDgwYTBiMTIzNzA
 
 #### Computer language, intro to architecture
