@@ -31,6 +31,9 @@ Quantum Chemistry: CHEM 210 A
         $ spyder
     ```
     Now you will be working inside of the Spyder IDE and have everything that's in the Psi4 environment!
+* Another useful **and voted number 1 for python** IDE is Pycharm. I am pretty sure the professional version is free for students!
+  * https://www.jetbrains.com/pycharm/promo/anaconda/
+  * Here is an example setting up a virtual environment in Pycharm https://medium.com/infinity-aka-aseem/how-to-setup-pycharm-with-an-anaconda-virtual-environment-already-created-fb927bacbe61 
 
 # Unix Setup
 * Package managers are extremely helpful and there are two for Mac OS, MacPorts
