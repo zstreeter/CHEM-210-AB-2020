@@ -43,7 +43,7 @@ Quantum Chemistry: CHEM 210 A
 * http://www.psicode.org/psi4manual/1.2/index.html
 
 # Slack 
-* set up Slack channel https://join.slack.com/t/chem210a/shared_invite/enQtODk2NTkwNjc5MDI4LWZkMDc4ZTQ5YzcxZTY3NmZkN2JmZTBhYmQ4YzU0NGE1YzdiMzE5YTRlM2I2NTVlMWZkZThlMDgwYTBiMTIzNzA
+* Say what's up! https://join.slack.com/t/chem210a/shared_invite/enQtODk2NTkwNjc5MDI4LWZkMDc4ZTQ5YzcxZTY3NmZkN2JmZTBhYmQ4YzU0NGE1YzdiMzE5YTRlM2I2NTVlMWZkZThlMDgwYTBiMTIzNzA
 
 #### Computer language, intro to architecture
 * example `n**2` (1) Python
