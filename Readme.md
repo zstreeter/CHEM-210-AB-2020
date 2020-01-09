@@ -1,4 +1,4 @@
-![](https://github.com/zstreeter/CHEM-210A-2020/blob/master/images/psi.png){:height="36px" width="36px" }
+![](https://github.com/zstreeter/CHEM-210A-2020/blob/master/images/psi.png = 250x)
 
 Quantum Chemistry: CHEM 210 A 2020
 =========
