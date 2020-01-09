@@ -50,7 +50,7 @@ Quantum Chemistry: CHEM 210 A
 # Unix Setup
 * Package managers are extremely helpful and for Mac OS we will use MacPorts.
   https://www.macports.org/install.php.
-* Installing Molden for MacPorts
+* Installing Molden via MacPorts
 
     ``````shell
       $ sudo port install molden
