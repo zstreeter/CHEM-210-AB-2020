@@ -1,7 +1,9 @@
-![](https://github.com/zstreeter/CHEM-210A-2020/images/psi.png)
+![](https://github.com/zstreeter/CHEM-210A-2020/blob/master/images/psi.png)
 
 Quantum Chemistry: CHEM 210 A 2020
 =========
+
+![](images/psi.png)
 
 # Python Setup
 * Download Anaconda if you haven't already https://www.anaconda.com/distribution/
