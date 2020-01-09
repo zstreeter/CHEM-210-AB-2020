@@ -48,21 +48,12 @@ Quantum Chemistry: CHEM 210 A
   * Here is an example setting up a virtual environment in Pycharm https://medium.com/infinity-aka-aseem/how-to-setup-pycharm-with-an-anaconda-virtual-environment-already-created-fb927bacbe61 
 
 # Unix Setup
-* Package managers are extremely helpful and there are two for Mac OS, MacPorts
-  and Homebrew.
-  I use MacPorts and you can install it from here https://www.macports.org/install.php.
-  Homebrew is very popular and is easy to use with similar commands to MacPorts,
-  http://osxdaily.com/2018/03/07/how-install-homebrew-mac-os/.
+* Package managers are extremely helpful and for Mac OS we will use MacPorts.
+  https://www.macports.org/install.php.
 * Installing Molden for MacPorts
 
     ``````shell
       $ sudo port install molden
-    ``````
-
-  The installation using Homebrew is probably similar
-
-    ``````shell
-      $ brew install molden
     ``````
 
 # Windows Setup
