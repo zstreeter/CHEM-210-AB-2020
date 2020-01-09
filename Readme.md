@@ -39,7 +39,7 @@ Quantum Chemistry: CHEM 210 A 2020
     ```shell
        (Psi4env) $ conda deactivate
     ```
-  * To add other packages (e.g. matplotlib) within your new virtual environment issue this command:
+  * To add other packages (e.g. matplotlib) within your new virtual environment issue this command
 
     ```shell
        (Psi4env) $ conda install matplotlib
