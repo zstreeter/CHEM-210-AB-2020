@@ -1,4 +1,4 @@
-Quantum Chemistry: CHEM 210 A
+Quantum Chemistry: CHEM 210 A 2020
 =========
 
 # Python Setup
