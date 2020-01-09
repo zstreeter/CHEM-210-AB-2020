@@ -1,5 +1,5 @@
 <!-- ![psi](https://github.com/zstreeter/CHEM-210A-2020/blob/master/images/psi.png) -->
-![psi]:(https://github.com/zstreeter/CHEM-210A-2020/blob/master/images/psi.png)
+![psi]: psi.png
 {: height="36px" width="36px"}
 
 Quantum Chemistry: CHEM 210 A 2020
