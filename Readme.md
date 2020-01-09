@@ -1,3 +1,5 @@
+![alt text](https://github.com/zstreeter/CHEM-210A-2020/tree/master/psi.png)
+
 Quantum Chemistry: CHEM 210 A 2020
 =========
 
