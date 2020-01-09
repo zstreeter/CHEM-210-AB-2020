@@ -73,12 +73,12 @@ Quantum Chemistry: CHEM 210 A
 Now we have a Windows developer setup!
 * Now lets download Molden: http://cheminf.cmbi.ru.nl/molden/molden.html
   * Installation: 
-    1) Go to your new linux bash prompt.
-    2) Find the downloaded Molden .tar file
-    3) Untar the file "tar -xvf molden_file_name.tar"
-    4) Go inside molden folder "cd molden_file_name"
-    5) Type the command "make molden"
-    6) Now type the command "make install"
+    1. Go to your new linux bash prompt.
+    2. Find the downloaded Molden .tar file
+    3. Untar the file "tar -xvf molden_file_name.tar"
+    4. Go inside molden folder "cd molden_file_name"
+    5. Type the command "make molden"
+    6. Now type the command "make install"
 * To get Psi4 working, we found a channel for Psi4 on Windows https://anaconda.org/raimis/psi4.
   So just need to issue this command in your Psi4 environment:
 
