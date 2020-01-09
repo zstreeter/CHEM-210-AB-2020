@@ -16,7 +16,7 @@ Quantum Chemistry: CHEM 210 A
     ```
 
 * Checkout this site for installing Psi4 with Anaconda http://www.psicode.org/psi4manual/1.1/conda.html
-  * Before doing anything, update conda!
+  * Before doing anything else, update conda!
 
     ```shell
 	$ conda update --all
