@@ -98,6 +98,10 @@ Now we have a Windows developer setup!
 # Slack
 * Say what's up! https://join.slack.com/t/chem210a/shared_invite/enQtODk2NTkwNjc5MDI4LWZkMDc4ZTQ5YzcxZTY3NmZkN2JmZTBhYmQ4YzU0NGE1YzdiMzE5YTRlM2I2NTVlMWZkZThlMDgwYTBiMTIzNzA
 
+# Useful Unix/Linux Terminal Commands
+* I found this website that mentions some of the most used commands so have a look!
+  https://learntocodewith.me/command-line/unix-command-cheat-sheet/
+
 <!-- #### Computer language, intro to architecture -->
 <!-- * example `n**2` (1) Python -->
 
