@@ -3,6 +3,12 @@ Quantum Chemistry: CHEM 210 A
 
 # Python Setup
 * Download Anaconda if you haven't already https://www.anaconda.com/distribution/
+  * Before doing anything, update conda!
+
+    ```shell
+	$ conda update --all
+    ```
+
   * Make sure conda is installed and in your \$PATH by looking at this command's output.
 
     ```shell
