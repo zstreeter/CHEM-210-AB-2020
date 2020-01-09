@@ -30,23 +30,23 @@ Quantum Chemistry: CHEM 210 A
   - Now can use this environment with the command
 
     ```shell
-        $ conda activate Psi4env
+      (base) $ conda activate Psi4env
     ```
     and deactivate it with
 
     ```shell
-        $ conda deactivate
+       (Psi4env) $ conda deactivate
     ```
 * If you use an IDE like Spyder, then you need to install Spyder within your virtual environment.
   * So activate your environment like above and then install Spyder
 
     ```shell
-        $ conda install spyder
+      (Psi4env) $ conda install spyder
     ```
   * Now still *within* your virtual environment invoke spyder.
 
     ```shell
-        $ spyder
+       (Psi4env) $ spyder
     ```
     Now you will be working inside of the Spyder IDE and have everything that's in the Psi4 environment!
 * Another useful IDE **and voted number 1 for python** is Pycharm. This IDE has a larger learning curve and that usually means it will benefit you in the long run if you adopt this as your main editor. I know most professionals in industry swear by it and I am pretty sure the professional version is free for students!
@@ -54,6 +54,9 @@ Quantum Chemistry: CHEM 210 A
   * Here is an example setting up a virtual environment in Pycharm https://medium.com/infinity-aka-aseem/how-to-setup-pycharm-with-an-anaconda-virtual-environment-already-created-fb927bacbe61 
 
 # Unix Setup
+* I found some of you do not have Xcode so you MUST install this! It will give you all
+  the developer programs you will need in the terminal. 
+  https://apps.apple.com/us/app/xcode/id497799835?mt=12
 * Package managers are extremely helpful and for Mac OS we will use MacPorts.
   https://www.macports.org/install.php.
 * Installing Molden via MacPorts
@@ -62,8 +65,26 @@ Quantum Chemistry: CHEM 210 A
       $ sudo port install molden
     ``````
 
-# Windows Setup
-* Just need to get Molden differently (I believe) http://cheminf.cmbi.ru.nl/molden/howtoget.html
+# Windows Setup (Requires Windows 10)
+* First, setup Windows Subsystem Linux (WSL) to get the Linux bash shell by following this site:
+  https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/
+* Second, setup an X-server so we can use Molden. For Windows there is a program called Xming; follow this site for setup steps:
+  https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/
+Now we have a Windows developer setup!
+* Now lets download Molden: http://cheminf.cmbi.ru.nl/molden/molden.html
+  * Installation: 
+    1) Go to your new linux bash prompt.
+    2) Find the downloaded Molden .tar file
+    3) Untar the file "tar -xvf molden_file_name.tar"
+    4) Go inside molden folder "cd molden_file_name"
+    5) Type the command "make molden"
+    6) Now type the command "make install"
+* To get Psi4 working, we found a channel for Psi4 on Windows https://anaconda.org/raimis/psi4.
+  So just need to issue this command in your Psi4 environment:
+
+    ``````shell
+     (Psi4env) $ conda install -c raimis psi4
+    ``````
 
 # Psi4
 * http://www.psicode.org/psi4manual/1.2/index.html
