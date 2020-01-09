@@ -22,7 +22,7 @@ Quantum Chemistry: CHEM 210 A
 	$ conda update --all
     ```
 
-  * Though, we just need to create virtual environment for Psi4
+  * Create virtual environment for Psi4
 
     ```shell
 	$ conda create -n Psi4env python=3.7 psi4 psi4-rt -c psi4
