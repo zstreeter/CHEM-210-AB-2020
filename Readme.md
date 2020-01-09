@@ -49,6 +49,13 @@ Quantum Chemistry: CHEM 210 A 2020
        (Psi4env) $ spyder
     ```
     Now you will be working inside of the Spyder IDE and have everything that's in the Psi4 environment!
+*  To add other packages (e.g. matplotlib) within your new virtual environment issue this command:
+
+    ```shell
+       (Psi4env) $ conda install matplotlib
+    ```
+   The bare bones Psi4 environment may not have some packages we will use so this may be required if Spyder cannot find the module. 
+
 * Another useful IDE **and voted number 1 for python** is Pycharm. This IDE has a larger learning curve and that usually means it will benefit you in the long run if you adopt this as your main editor. I know most professionals in industry swear by it and I am pretty sure the professional version is free for students!
   * https://www.jetbrains.com/pycharm/promo/anaconda/
   * Here is an example setting up a virtual environment in Pycharm https://medium.com/infinity-aka-aseem/how-to-setup-pycharm-with-an-anaconda-virtual-environment-already-created-fb927bacbe61 
