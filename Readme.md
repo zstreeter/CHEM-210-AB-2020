@@ -1,6 +1,6 @@
 ![psi](https://github.com/zstreeter/CHEM-210A-2020/blob/master/images/psi.png)
 
-# Quantum Chemistry: CHEM 210 A 2020
+# Quantum Chemistry: CHEM 210 A 2021
 
 # Python Setup
 
