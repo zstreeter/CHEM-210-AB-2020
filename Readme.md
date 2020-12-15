@@ -87,7 +87,7 @@
 
 # Unix Setup
 
-- You MUST install Scone! It will give you all the developer programs you will
+- You MUST install Xcode! It will give you all the developer programs you will
   need in the terminal. https://apps.apple.com/us/app/xcode/id497799835?mt=12
 - Package managers are extremely helpful and for Mac OS we will use MacPorts.
   https://www.macports.org/install.php.
