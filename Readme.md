@@ -142,7 +142,7 @@ Now we have a Windows developer setup!
   $ make install
 ```
 
-If you get errors in this process, please let me know.
+**If you get errors in this process, please let me know.**
 
 - To get Psi4 working, we found a channel for Psi4 on Windows
   https://anaconda.org/raimis/psi4. So just need to issue this command in your
