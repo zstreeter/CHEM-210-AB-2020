@@ -158,7 +158,8 @@ Now we have a Windows developer setup!
 
 # Slack
 
-- Coming Soon!
+- Say what's up!
+  https://join.slack.com/t/chem210a-2021/shared_invite/zt-khicv6bp-7CEgrwKfG2~M~W5dMOShiQ
 
 # Useful Unix/Linux Terminal Commands
 
